@@ -1,5 +1,10 @@
 package example;
-
+/**
+ * Bubble Sort:
+Average Case Time Complexity: O(n^2)
+Worst Case Time Complexity: O(n^2)
+Best Case Time Complexity: O(n) - This occurs when the array is already sorted, but bubble sort still needs to iterate over the array once to confirm.
+ */
 public class Bubble_Short {
 
 	public static void main(String[] args) {
